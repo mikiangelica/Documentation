@@ -3,7 +3,7 @@ The purpose of this project is to have hands on practice with AWS for better und
 
 In this LAB, the use case will be adopting AWS cloud services for a company's ecommerce website to allow for scalability as the business grows. Low latency and accessibility are also considered here in the choosing of AWS to host our webapp.
 
-
+Below is a diagram of the cloud infrastructure
 <img width="1544" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd5753eb-a071-42b2-a0a5-0e753d780695" />
 
 Documentation for other projects
